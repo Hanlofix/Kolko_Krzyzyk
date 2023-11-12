@@ -1,0 +1,5 @@
+INFORMACJE O GRZE
+-----------------
+Gra zostala stworzona w celu realizacji projektu naukowego 
+na przedmiot Zasady programowania strukturalnego.
+Tworca i jedynym wlascicielem gry jest Tomasz Wardak.
